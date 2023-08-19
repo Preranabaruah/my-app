@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/dirtmate/static/css/main.073c9b0a.css",
+    "main.js": "/dirtmate/static/js/main.be356f52.js",
+    "static/js/787.28cb0dcd.chunk.js": "/dirtmate/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/dirtmate/index.html",
+    "main.073c9b0a.css.map": "/dirtmate/static/css/main.073c9b0a.css.map",
+    "main.be356f52.js.map": "/dirtmate/static/js/main.be356f52.js.map",
+    "787.28cb0dcd.chunk.js.map": "/dirtmate/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.be356f52.js"
+  ]
+}
